@@ -1,0 +1,33 @@
+{
+  "botName": "Sakib AI",
+  "adminIDs": ["61578706917586"],
+  "prefix": ".",
+  "langStyle": "banglish",
+  "downloadVideo": true,
+  "commanders": [
+    {
+      "name": "help",
+      "description": "Show all commands list"
+    },
+    {
+      "name": "hi",
+      "description": "Bot will greet you like a friend"
+    },
+    {
+      "name": "video",
+      "description": "Download video from a link"
+    },
+    {
+      "name": "owner",
+      "description": "Show bot owner info (Sakib AI)"
+    },
+    {
+      "name": "time",
+      "description": "Current time & date"
+    },
+    {
+      "name": "uid",
+      "description": "Check your Facebook UID"
+    }
+  ]
+}
